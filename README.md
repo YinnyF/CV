@@ -1,6 +1,5 @@
-## Your Name
+## Cynthia Fu
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
 ## Projects
 
@@ -9,17 +8,22 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
-## Work Experience
+## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Roofoods Ltd t/a Deliveroo** - London (Aug 2019 - Dec 2020)  
+_Payroll Lead - UK/USA/IRE_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**The Genuine Dining Co. Ltd** - London (Apr 2018 - Aug 2019)  
+_Payroll Clerk_
 
-- Any experience relevent to software development
+
+**Manchester Young People's Theatre t/a Contact Theatre** - Manchester (Aug 2016 - Feb 2018)  
+_Finance Assistant_
+
+
+**Cancer Research UK** - Manchester (2014 - 2018)  
+_Events Volunteer_
 
 ## Skills
 
@@ -53,25 +57,29 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
+### Makers Academy, London (May to Aug 2021)
+
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+### University of Manchester (2011 to 2014)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc Mathematics
 
-#### Any other qualifications
+### Holy Cross College (2009 to 2011)
 
-That in some arguable way make you a better software developer or well-rounded person
+- A Levels: Maths, Further Maths, Physics, Chemistry
+- NOCN Level 2 Award in General Religious Education 
 
-## Hobbies
+### Parrenthorn High School (2004 to 2009)
 
-Any cool stuff that makes you a super part of a software development team
+- GCSEs: 5A*, 4A, 3B 	
+
+
+### Any other qualifications
+- Workday Payroll Fundamentals (July 2020)
+- CIPP Payroll Technician Certificate (Sept 2019)
+- Silver Certificate in the UK Senior Mathematical Challenge 2010 (top 10-30%)
+
