@@ -117,54 +117,57 @@ Frameworks: Rails, RSpec, Jasmine, JUnit
 
 DBMS: PostgreSQL
 
-- Clean code
-- Agile/XP values
-- Test Driven Development (TDD)
-- Object-oriented programming (OOP)
-- Model, View, Controller structure (MVC)
-- Project planning (MVP, modelling, wireframes, collaboration tools)
-- Self-directed learning
-- Pair programming (240+ hours)
-- Weekend challenges
-- Feedback culture
-- Holistic learning
-- Mentoring
+* Clean code
+* Agile/XP values
+* Test Driven Development (TDD)
+* Object-oriented programming (OOP)
+* Model, View, Controller structure (MVC)
+* Project planning (MVP, modelling, wireframes, collaboration tools)
+* Self-directed learning
+* Pair programming (240+ hours)
+* Weekend challenges
+* Feedback culture
+* Holistic learning
+* Mentoring
 
 ### University of Manchester (2011 to 2014)
 _BSc Mathematics_
 
 Third Year Modules:
-- Mathematical Modelling in Finance
-- Extreme Values and Financial Risk
-- Martingales with Applications to Finance
-- Statistical Computing
-- Mathematical Programming
-- Time Series Analysis
-- Multivariate Statistics
-- Social Statistics
-- Design and Analysis of Experiments
-- Mathematical Biology
-- Medical Statistics
-- Fluid Mechanics
 
-- Societies: Statistical strategy society, Mah-jong society
+* Mathematical Modelling in Finance
+* Extreme Values and Financial Risk
+* Martingales with Applications to Finance
+* Statistical Computing
+* Mathematical Programming
+* Time Series Analysis
+* Multivariate Statistics
+* Social Statistics
+* Design and Analysis of Experiments
+* Mathematical Biology
+* Medical Statistics
+* Fluid Mechanics
+
+Societies: 
+* Statistical strategy society
+* Mah-jong society
 
 ### Holy Cross College (2009 to 2011)
 
-- A Levels: Maths (A), Chemistry (A), Further Maths (B), Physics (B)
-- NOCN Level 2 Award in General Religious Education
-- Responsibilities: Class representative for Mathematics & Chemistry, student guide
+* A Levels: Maths (A), Chemistry (A), Further Maths (B), Physics (B)
+* NOCN Level 2 Award in General Religious Education
+* Responsibilities: Class representative for Mathematics & Chemistry, student guide
 
 ### Parrenthorn High School (2004 to 2009)
 
-- GCSEs: 5A*, 4A, 3B
-- Responsibilities: Senior Prefect, student guide, assisted at school productions 	
+* GCSEs: 5A*, 4A, 3B
+* Responsibilities: Senior Prefect, student guide, assisted at school productions 	
 
 
 ### Any other qualifications
-- Workday Payroll Fundamentals (July 2020)
-- CIPP Payroll Technician Certificate (Sept 2019)
-- Silver Certificate in the UK Senior Mathematical Challenge 2010 (top 10-30%)
+* Workday Payroll Fundamentals (July 2020)
+* CIPP Payroll Technician Certificate (Sept 2019)
+* Silver Certificate in the UK Senior Mathematical Challenge 2010 (top 10-30%)
 
 ## Hobbies & Interests
 Games, board games, gardening, Netflix, eating.
