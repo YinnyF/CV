@@ -1,6 +1,20 @@
-## Cynthia Fu
+<h1 align="center">
+Cynthia Fu
+</h1>
+
+<div align="center">
+
+[Projects](#projects) |
+[Experience](#experience) |
+[Education](#education) |
+[Hobbies & Interests](#hobbies--interests) 
+
+</div>
+
 
 I am a recent Makers Academy graduate with a BSc Mathematics degree from University of Manchester.
+
+---
 
 ## Projects
 
