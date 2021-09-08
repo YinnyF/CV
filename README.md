@@ -25,7 +25,7 @@ I am a recent Makers Academy graduate with a BSc Mathematics degree from Univers
 
 ## Experience
 
-**Roofoods Ltd t/a Deliveroo** - London (Aug 2019 - Dec 2020)  
+### **Roofoods Ltd t/a Deliveroo** - London (Aug 2019 - Dec 2020)  
 _Payroll Lead - UK/USA/IRE_
 
 Systems: Workday HCM, Workday Payroll, iiPAY, Benefex
@@ -43,9 +43,9 @@ Notable Achievements: received Deliveroo Values Award (Q2 2020) in my first year
 * BAU Troubleshooting
 * Communicating to key stakeholders
 * Reporting
+<br><br>
 
-
-**The Genuine Dining Co. Ltd (Group Genuine)** - London (Apr 2018 - Aug 2019)  
+### **The Genuine Dining Co. Ltd (Group Genuine)** - London (Apr 2018 - Aug 2019)  
 _Payroll Clerk_
 
 Systems: Polaris, Sage 50 Payroll
@@ -61,9 +61,9 @@ Notable Achievements: received the company Rising Star Award 2018
 * Payroll analyses
 * Payroll & HCM system maintenance
 * Provided HCM & Payroll training to site managers
+<br><br>
 
-
-**Manchester Young People's Theatre t/a Contact Theatre** - Manchester (Aug 2016 - Feb 2018)  
+### **Manchester Young People's Theatre t/a Contact Theatre** - Manchester (Aug 2016 - Feb 2018)  
 _Finance Assistant_
 
 * Finance
@@ -72,10 +72,11 @@ _Finance Assistant_
 * Process writing
 * Assisted in GDPR compliance audit
 * Provided training
+<br><br>
 
-
-**Cancer Research UK** - Manchester (2014 - 2018)  
+### **Cancer Research UK** - Manchester (2014 - 2018)  
 _Events Volunteer_
+<br><br>
 
 <!-- ## Skills
 
