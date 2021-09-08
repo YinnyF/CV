@@ -13,7 +13,9 @@ I am a recent Makers Academy graduate with a BSc Mathematics degree from Univers
 
 **Roofoods Ltd t/a Deliveroo** - London (Aug 2019 - Dec 2020)  
 _Payroll Lead - UK/USA/IRE_
+
 Systems: Workday HCM, Workday Payroll, iiPAY, Benefex
+
 Notable Achievements: received Deliveroo Values Award (Q2 2020) in my first year of employment
 
 * Lead the UK, IRE & USA payroll team (iiPAY, Deliveroo Payroll Assistant)
@@ -31,7 +33,9 @@ Notable Achievements: received Deliveroo Values Award (Q2 2020) in my first year
 
 **The Genuine Dining Co. Ltd (Group Genuine)** - London (Apr 2018 - Aug 2019)  
 _Payroll Clerk_
+
 Systems: Polaris, Sage 50 Payroll
+
 Notable Achievements: received the company Rising Star Award 2018
 
 * In-house, multi-company, multi-site, high volume payroll
@@ -94,7 +98,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ### Makers Academy, London (May to Aug 2021)
 
 Languages: Ruby, JavaScript, SQL, HTML/CSS, Java
+
 Frameworks: Rails, RSpec, Jasmine, JUnit
+
 DBMS: PostgreSQL
 
 - Clean code
