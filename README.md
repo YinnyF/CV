@@ -4,6 +4,10 @@ Cynthia Fu
 
 <div align="center">
 
+[![Linkedin Badge](https://img.shields.io/badge/-Cynthia%20Fu-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ycfu/)](https://www.linkedin.com/in/ycfu/)
+[![Codewars Badge](https://www.codewars.com/users/Yinnikkuma/badges/micro)](https://www.codewars.com/users/Yinnikkuma)
+[![GitHub Follow](https://img.shields.io/github/followers/YinnyF?label=Follow&style=social)](https://github.com/YinnyF/?tab=follow)
+
 [Projects](#projects) |
 [Experience](#experience) |
 [Education](#education) |
@@ -14,14 +18,23 @@ Cynthia Fu
 
 I am a recent Makers Academy graduate with a BSc Mathematics degree from University of Manchester.
 
+In my previous role I was an international Payroll Lead at Deliveroo where I was a SME focused on projects whilst overseeing BAU. Inspired by my peers and the tech/start-up culture, I finally decided to make a switch into Software Engineering. 
+
+I am a determined and enthusiastic individual always willing to learn new skills. I have a proven track-record of delivering quality and I am determined to make an impact as a Software Engineer. 
+
+I am looking for a role that enables learning and growth. Company culture is also very important to me. 
+
 ---
 
 ## Projects
 
 | Name                         | Tech/tools        |
 | ---------------------------- | ----------------- |
-| <a href="https://github.com/YinnyF/pin-my-hike">Pin My Hike</a><br><br> A collection of hiking experiences viewable as a pin on a map. A two week group project learning a new tech start from scratch <br><br> <img src="./images/pinmyhike.png" alt="screenshot of pinmyhike" width="400"/> | **Tech stack** <br> JS, MERN (MongoDB, Express, React, Node), MongoDB Atlas, Google API <br><br> **Testing**<br> Jest, Insomnia |
-
+| <a href="https://github.com/YinnyF/pin-my-hike">Pin My Hike</a><br><br> A collection of hiking experiences viewable as a pin on a map. A two week group project learning a new tech start from scratch. <br><br> <img src="./images/pinmyhike.png" alt="screenshot of pinmyhike" width="400"/> | **Tech stack** <br> JavaScript, MERN (MongoDB, Express, React, Node), MongoDB Atlas, Google API <br><br> **Testing**<br> Jest, Insomnia <br><br> **Other Tools**<br> Miro, Trello |
+| <a href="https://github.com/YinnyF/bank_tech_test">Ruby Bank</a><br><br> A mock tech test simulating a bank in Ruby showcasing my skills such as OOP, TDD. <br><br> | **Language** <br> Ruby <br><br> **Testing**<br> RSpec | 
+|<a href="https://github.com/YinnyF/news-summary-challenge">News Summary</a> <br><br> A single page app made using vanilla JS, a self-made testing framework, and the Guardian (News) API. <br><br> | **Languages** <br> JavaScript, CSS, HTML <br><br> **Testing** <br> Sunflower (written by me) <br><br> |
+|<a href="https://github.com/YinnyF/bowling-challenge">Bowling Scorecard JavaScript</a> <br><br> A backend bowling scorecard written in JavaScript to practise JavaScript.<br><br> | **Language** <br> JavaScript<br><br> **Testing** <br>Jasmine <br><br> |
+|<a href="https://github.com/YinnyF/bowling-challenge-ruby">Bowling Scorecard Ruby</a> <br><br> A backend bowling scorecard written in Ruby to demonstrate use of TDD, SRP, encapsulation, clean code. <br><br> | **Language** <br>Ruby <br><br> **Testing** <br>RSpec <br><br> |
 
 ## Experience
 
@@ -52,7 +65,7 @@ Systems: Polaris, Sage 50 Payroll
 
 Notable Achievements: received the company Rising Star Award 2018
 
-* In-house, multi-company, multi-site, high volume payroll
+* Solely responsible for in-house, multi-company, multi-site, high volume payroll
 * Reporting directly to group Finance Director
 * TUPE
 * Pensions & Benefits
@@ -67,7 +80,7 @@ Notable Achievements: received the company Rising Star Award 2018
 _Finance Assistant_
 
 * Finance
-* Payroll
+* Solely responsible for Payroll
 * Client services (Payroll & Finance including pensions)
 * Process writing
 * Assisted in GDPR compliance audit
@@ -111,6 +124,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Education
 
 ### Makers Academy, London (May to Aug 2021)
+A 16-week intensive coding bootcamp
 
 Languages: Ruby, JavaScript, SQL, HTML/CSS, Java
 
@@ -158,12 +172,6 @@ Societies:
 * A Levels: Maths (A), Chemistry (A), Further Maths (B), Physics (B)
 * NOCN Level 2 Award in General Religious Education
 * Responsibilities: Class representative for Mathematics & Chemistry, student guide
-
-### Parrenthorn High School (2004 to 2009)
-
-* GCSEs: 5A*, 4A, 3B
-* Responsibilities: Senior Prefect, student guide, assisted at school productions 	
-
 
 ### Any other qualifications
 * Workday Payroll Fundamentals (July 2020)
