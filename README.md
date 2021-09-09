@@ -124,7 +124,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Education
 
 ### Makers Academy, London (May to Aug 2021)
-A 16-week intensive coding bootcamp
+A 16-week intensive coding bootcamp + 2-week introduction to Java
 
 Languages: Ruby, JavaScript, SQL, HTML/CSS, Java
 
