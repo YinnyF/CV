@@ -173,7 +173,7 @@ Societies:
 * NOCN Level 2 Award in General Religious Education
 * Responsibilities: Class representative for Mathematics & Chemistry, student guide
 
-### Any other qualifications
+### Other Certifications
 * Workday Payroll Fundamentals (July 2020)
 * CIPP Payroll Technician Certificate (Sept 2019)
 * Silver Certificate in the UK Senior Mathematical Challenge 2010 (top 10-30%)
